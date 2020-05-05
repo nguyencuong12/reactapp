@@ -57,16 +57,16 @@ class ContactPage extends Component {
                     <section className="contact-7">
                         <div className="row">
                             <div className="col-lg-3 col-md-6 col-sm-12 text-center">
-                                <a href="#"><img src="/images/6.jpg"></img></a>
+                                <a href="#"><img src="images/6.jpg"></img></a>
                             </div>
                             <div className="col-lg-3 col-md-6 col-sm-12 text-center">
-                                <a href="#"><img src="/images/7.jpg"></img></a>
+                                <a href="#"><img src="images/7.jpg"></img></a>
                             </div>
                             <div className="col-lg-3 col-md-6 col-sm-12 text-center">
-                                <a href="#"><img src="/images/8.jpg"></img></a>
+                                <a href="#"><img src="images/8.jpg"></img></a>
                             </div>
                             <div className="col-lg-3 col-md-6 col-sm-12 text-center">
-                                <a href="#"><img src="/images/9.jpg"></img></a>
+                                <a href="#"><img src="images/9.jpg"></img></a>
                             </div>
                         </div>
                     </section>

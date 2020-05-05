@@ -58,11 +58,11 @@ class HeaderComponents extends Component {
                     <label className = "logo">
                      <img src = "images/favicon.ico"></img>
                     </label>
-
+                    
                     <ul>
-                        <li ><a className = "home" href = "/">Home</a></li>
-                        <li><a className = "contact" href = "/contact">Contact</a></li>
-                        <li><a className = "aboutus" href = "/aboutus">About Us</a></li>
+                        <li ><a className = "home" href = "/reactapp/">Home</a></li>
+                        <li><a className = "contact" href = "/reactapp/contact">Contact</a></li>
+                        <li><a className = "aboutus" href = "/reactapp/aboutus">About Us</a></li>
                     </ul>
                 </nav>
 

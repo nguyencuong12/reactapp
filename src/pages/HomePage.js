@@ -24,11 +24,11 @@ export default class HomePage extends Component {
                        <div className = "row">
                             <div className = "col-md-6 col-sm-12 text-center pb-4">
                                
-                               <img src = "/images/1.jpg"></img>
+                               <img src = "images/1.jpg"></img>
                             </div>
 
                             <div className = "col-md-6 col-sm-12 text-center ">
-                               <img src = "/images/2.jpg"></img>
+                               <img src = "images/2.jpg"></img>
                              </div>
                        </div>
                     </section>
@@ -38,17 +38,17 @@ export default class HomePage extends Component {
                     <h4 className = "text-center pt-2 pb-2">Bootstrap collapse_3</h4>
                        <div className = "row">
                             <div className = "col-lg-4 col-md-6 col-sm-12 text-center pb-4">
-                               <img src = "/images/4.jpg"></img>
+                               <img src = "images/4.jpg"></img>
                             </div>
 
                             <div className = "col-lg-4 col-sm-12 col-md-6 text-center pb-4">
-                               <img src = "/images/5.jpg"></img>
+                               <img src = "images/5.jpg"></img>
                                <span>Description of Image 5</span>
                                <span>Bla Bla ........</span>
                              </div>
 
                              <div className = "col-lg-4 col-sm-12 col-md-12 text-center ">
-                               <img src = "/images/6.jpg"></img>
+                               <img src = "images/6.jpg"></img>
                              </div>
                        </div>
                     </section>

@@ -21,12 +21,11 @@ class App extends Component {
       <div className="App">
         <Router>
           <Switch>
-            <Route path ="/" exact component ={HomePage}/>
-            <Route path = "/contact" component = {ContactPage}/>
-            <Route path = "/aboutus" component = {AboutPage}/>
+            <Route path ="/reactapp" exact component ={HomePage}/>
+            <Route path = "/reactapp/contact" component = {ContactPage}/>
+            <Route path = "/reactapp/aboutus" component = {AboutPage}/>
             <Route component = {ErrorPage}/>
           </Switch>
-
         </Router>
 
       </div>
