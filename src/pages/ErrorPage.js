@@ -23,7 +23,7 @@ class ErrorPage extends Component {
             confirmButtonText: 'Yes,Go Back!'
           }).then((result) => {
             if (result.value) {
-            window.location.href = "/"
+            window.location.href = "/reactapp/"
             }
           })
     }
